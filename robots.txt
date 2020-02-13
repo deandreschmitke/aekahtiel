@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iezoongie.easy-wi.com/sitemap.xml
